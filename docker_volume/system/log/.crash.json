@@ -1,0 +1,20 @@
+{
+  "reason": "0x00000003",
+  "processName": "sqlservr",
+  "pid": "1",
+  "instanceId": "acb11f8b-be30-442f-90d3-877a53470aa3",
+  "crashId": "",
+  "threadId": "6",
+  "buildStamp": "0e53295d0e1704ae5b221538dd6e2322cd46134e0cc32be49c887ca84cdb8c10",
+  "message": "Unexpected call to legacy ABI.",
+  "nativeStack": [
+    "0x00005585bd59f4ae",
+    "0x00005585bd59e22d",
+    "0x00005585bd4d68fe",
+    "0x00005585bd53a4b7"
+  ],
+  "distribution": "Ubuntu 16.04.6 LTS",
+  "processors": "2",
+  "total_memory": "2086522880",
+  "timestamp": "Fri Mar 20 14:15:19 2020"
+}

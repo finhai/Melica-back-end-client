@@ -1,0 +1,16 @@
+This program has encountered a fatal error and cannot continue running at Fri Mar 20 14:15:19 2020
+The following diagnostic information is available:
+
+       Reason: 0x00000003
+      Message: Unexpected call to legacy ABI.
+   Stacktrace: 00005585bd59e6a4 00005585bd59e21f 00005585bd4d68fe 
+               00005585bd53a4b7 
+      Process: 1 - sqlservr
+       Thread: 6
+  Instance Id: acb11f8b-be30-442f-90d3-877a53470aa3
+     Crash Id: 
+  Build stamp: 0e53295d0e1704ae5b221538dd6e2322cd46134e0cc32be49c887ca84cdb8c10
+ Distribution: Ubuntu 16.04.6 LTS
+   Processors: 2
+ Total Memory: 2086522880 bytes
+    Timestamp: Fri Mar 20 14:15:19 2020

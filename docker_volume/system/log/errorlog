@@ -1,0 +1,15 @@
+2020-03-20 14:22:42.55 Server      Microsoft SQL Server 2017 (RTM-CU19) (KB4535007) - 14.0.3281.6 (X64) 
+	Jan 23 2020 21:00:04 
+	Copyright (C) 2017 Microsoft Corporation
+	Developer Edition (64-bit) on Linux (Ubuntu 16.04.6 LTS)
+2020-03-20 14:22:42.58 Server      UTC adjustment: 0:00
+2020-03-20 14:22:42.60 Server      (c) Microsoft Corporation.
+2020-03-20 14:22:42.60 Server      All rights reserved.
+2020-03-20 14:22:42.60 Server      Server process ID is 40.
+2020-03-20 14:22:42.61 Server      Logging SQL Server messages in file '/var/opt/mssql/log/errorlog'.
+2020-03-20 14:22:42.62 Server      Registry startup parameters: 
+	 -d /var/opt/mssql/data/master.mdf
+	 -l /var/opt/mssql/data/mastlog.ldf
+	 -e /var/opt/mssql/log/errorlog
+2020-03-20 14:22:42.68 Server      Error: 17113, Severity: 16, State: 1.
+2020-03-20 14:22:42.68 Server      Error 87(The parameter is incorrect.) occurred while opening file '/var/opt/mssql/data/master.mdf' to obtain configuration information at startup. An invalid startup option might have caused the error. Verify your startup options, and correct or remove them if necessary.
